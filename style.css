@@ -24,16 +24,16 @@ p {
 
 .parte1 {
       color: blue;
-
+}
   .parte2 {
       color: blue;
-
+}
     .parte3 {
       color: blue;
-
+}
       .parte4 {
       color: blue;
-
+}
 .clearfix {
   &:after {
     content: '';
